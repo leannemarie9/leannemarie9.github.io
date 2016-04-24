@@ -1,5 +1,17 @@
+body {
+	background-color: #37474f;
+}
+
 .catagory {
 	height: 500px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.container-list {
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 50px;
 	font-size: 20px;
 }
 
@@ -9,3 +21,23 @@
 	font-size: 20px;
 }
 
+.navbar {
+	background-color: #263238;
+	border-color: #cfd8dc;
+}
+
+h {
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+a {
+	color: #cfd8dc;
+}
+
+a:hover {
+	color: #ffffff;
+}
