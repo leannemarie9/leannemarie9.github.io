@@ -21,12 +21,30 @@ body {
 	border-color: #cfd8dc;
 }
 
+#social-buttons button {
+ 	color: white;
+ }
+
+ .btn-twitter { 
+    background-color: #00acee;
+    border-color: #009ad5; 
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+    border-color: 314776;
+}
+
 .list-unstyled {
 	text-align: center;
 	font-size: 25px;
 	padding-bottom: 20px;
 }
 
+.contact {
+	background-color: #263238;
+	color: #ffffff;
+}
 
 h2 {
 	color: #ffffff;
