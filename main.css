@@ -44,6 +44,3 @@ a:hover {
 	color: #ffffff;
 }
 
-$('#myCollapsible').collapse({
-  toggle: false
-})
