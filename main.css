@@ -1,11 +1,10 @@
 body {
 	background-color: #37474f;
-	padding-top:70px;
+	padding-top:30px;
 
 }
 
-.catagory {
-	height: 500px;
+.container-fluid {
 	font-size: 20px;
 	text-align: center;
 }
@@ -17,18 +16,37 @@ body {
 	font-size: 20px;
 }
 
-.list {
-	margin-top: 50px;
-	margin-bottom: 10px;
-	font-size: 20px;
-}
-
 .navbar {
 	background-color: #263238;
 	border-color: #cfd8dc;
 }
 
-h {
+#social-buttons button {
+ 	color: white;
+ }
+
+ .btn-twitter { 
+    background-color: #00acee;
+    border-color: #009ad5; 
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+    border-color: 314776;
+}
+
+.list-unstyled {
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 20px;
+}
+
+.contact {
+	background-color: #263238;
+	color: #ffffff;
+}
+
+h2 {
 	color: #ffffff;
 }
 
