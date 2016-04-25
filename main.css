@@ -1,5 +1,7 @@
 body {
 	background-color: #37474f;
+	padding-top:70px;
+
 }
 
 .catagory {
@@ -41,3 +43,7 @@ a {
 a:hover {
 	color: #ffffff;
 }
+
+$('#myCollapsible').collapse({
+  toggle: false
+})
