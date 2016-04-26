@@ -4,6 +4,10 @@ body {
 
 }
 
+p {
+	color: #ffffff;
+}
+
 .container-fluid {
 	font-size: 20px;
 	text-align: center;
